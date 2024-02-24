@@ -1,2 +1,2 @@
 # odin-recipes
-First project to github using HTML to create a basic website. Purpose is to get familiarized with performing 
+First project creating a website using basic HTML elements and practice git commits
